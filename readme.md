@@ -3,11 +3,13 @@
 
 ## Requirements
 - Python 3.8 or higher
-- Numpy 1.21.1 or higher
+- Other requirements can be installed by typing below shell code
+- ``pip install -r requirements.txt``
 
 ## Objective
 - 파이썬을 통해 선형대수의 개념을 잡는 것을 목표로 함
 - 통계, 프로그래밍, Data Science의 기본인 행렬(numpy array)에 대한 숙련도를 높임
+- 파이썬을 통한 선형대수적 개념을 구현하고 이를 응용하는 능력 향상
 
 ## Chapter
 - [v] 벡터
@@ -15,7 +17,6 @@
     - [v] 직선과 평면의 벡터방정식
 - [v] 선형연립방정식
   - [v] 선형연립방정식
-  - [v] Machine Learning에서 선형연립방정식의 쓸모
   - [v] Gauss 소거법과 REF, RREF
   - [v] 기본행 연산
   - [v] Gauss-Jordan 소거법
